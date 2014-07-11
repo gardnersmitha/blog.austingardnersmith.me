@@ -1,6 +1,7 @@
-# Casper
+# AGS
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+A Child Theme of Casper by [Ghost](http://github.com/tryghost/ghost/), customized for my personal blog. 
+
 
 ## Copyright & License
 

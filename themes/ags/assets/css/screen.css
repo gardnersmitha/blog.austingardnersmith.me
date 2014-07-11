@@ -384,6 +384,10 @@ margin on the iframe, cause it breaks stuff. */
     background-size: cover;
 }
 
+a.site-head-link{
+    color:#fff;
+}
+
 .blog-logo {
     text-decoration: none;
 }
@@ -480,6 +484,27 @@ margin on the iframe, cause it breaks stuff. */
 
 .post-meta a:hover {
     text-decoration: underline;
+}
+
+.post-tags {
+    display: block;
+    clear:left;
+    margin: 20px 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+}
+
+.post-tags a{
+    display: inline-block;
+    border-radius: 1.5rem;
+    background:#2E89FF;
+    color:#FFFFFF;
+    text-decoration: none;
+    padding:0 20px;
+}
+
+.post-tags a:hover{
+
 }
 
 .user-meta {
